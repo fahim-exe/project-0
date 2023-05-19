@@ -1,3 +1,2 @@
 # project-0
-
-This is a
+This project is done in HTML and CSS only. In this project I was given a task to create a duplicate copy of google search page for Google Search, Google Image Search and Google Advanced Search.
